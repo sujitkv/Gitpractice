@@ -1,5 +1,5 @@
-### Welcome to sujit's tutorial###
+##Welcome to sujit's tutorial
 
-##Will learn about GIThub##
+##Will learn about GIThub
 
 ##please uderstand the code
