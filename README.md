@@ -1,3 +1,2 @@
-### Welcome to sujit's tutorial###
-
-##Will learn about GIThub##
+### Welcome to sujit's tutorial
+Will learn about GIThub
